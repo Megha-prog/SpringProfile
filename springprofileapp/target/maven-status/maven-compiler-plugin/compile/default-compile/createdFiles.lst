@@ -1,0 +1,5 @@
+com\example\springprofileapp\reposatory\UserRepository.class
+com\example\springprofileapp\controller\UserController.class
+com\example\springprofileapp\SpringprofileappApplication.class
+com\example\springprofileapp\service\UserService.class
+com\example\springprofileapp\model\User.class
